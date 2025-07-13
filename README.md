@@ -42,6 +42,9 @@ This repository explores wage disparities between Black and White workers in the
 ![Wage Gap Over Time](https://github.com/SaurabhSSB/wage-gap-analysis-usa/blob/main/Wage%20Comparison.png)  
 *A sample chart showcasing wage comparison trends over the years.*
 
+![Wage Gap Over Time](https://github.com/SaurabhSSB/wage-gap-analysis-usa/blob/main/Wage%20Difference.png)  
+*A sample chart showcasing wage difference trends over the years.*
+
 ## 📌 How to Run
 
 1. Clone the repo:
