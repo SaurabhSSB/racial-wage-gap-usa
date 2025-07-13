@@ -49,7 +49,7 @@ This repository explores wage disparities between Black and White workers in the
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/racial-wage-gap-usa.git
+   git clone https://github.com/yourusername/wage-gap-analysis-usa.git
    ```
 2. Install dependencies:
    ```bash
