@@ -1,5 +1,5 @@
 
-# Racial Wage Gap in USA
+# Wage Gap Analysis USA
 
 This repository explores wage disparities between Black and White workers in the United States through data analysis and visualization techniques. The project aims to uncover trends, identify inequality patterns, and provide actionable insights using historical wage data.
 
@@ -39,14 +39,17 @@ This repository explores wage disparities between Black and White workers in the
 
 ## 🔍 Sample Visualization
 
-![Wage Gap Over Time](https://user-images.githubusercontent.com/example/wage-gap-graph.png)  
-*A sample chart showcasing wage gap trends over the years.*
+![Wage Gap Over Time](https://github.com/SaurabhSSB/wage-gap-analysis-usa/blob/main/Wage%20Comparison.png)  
+*A sample chart showcasing wage comparison trends over the years.*
+
+![Wage Gap Over Time](https://github.com/SaurabhSSB/wage-gap-analysis-usa/blob/main/Wage%20Difference.png)  
+*A sample chart showcasing wage difference trends over the years.*
 
 ## 📌 How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/racial-wage-gap-usa.git
+   git clone https://github.com/yourusername/wage-gap-analysis-usa.git
    ```
 2. Install dependencies:
    ```bash
