@@ -1,5 +1,5 @@
 
-# Racial Wage Gap in USA
+# Wage Gap Analysis USA
 
 This repository explores wage disparities between Black and White workers in the United States through data analysis and visualization techniques. The project aims to uncover trends, identify inequality patterns, and provide actionable insights using historical wage data.
 
